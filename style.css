@@ -114,8 +114,9 @@
 .ratings{
     display: flex;
     justify-content: space-around;
-    margin-left: 18px;
+    margin-left: -10px;
     color: #545454;
+    width: 90%;
 }
 .ratings h1{
     font-size: 57px;
